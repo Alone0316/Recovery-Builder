@@ -3,10 +3,10 @@ env:
     FOX_SYNC: https://gitlab.com/OrangeFox/sync.git
 
     # Device
-    FOX_BRANCH: 11.0
-    DT_LINK: https://github.com/Alone0316/recovery_samsung_a52sxq.git
-    DEVICE: a52sxq
-    OEM: samsung
+    FOX_BRANCH: 12.1
+    DT_LINK: https://github.com/Alone0316/device-santoni-twrp.git
+    DEVICE: santoni
+    OEM: xiaomi
     TARGET: recoveryimage
 
     DT_PATH: device/$OEM/$DEVICE
