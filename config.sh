@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/Alone0316/recovery_samsung_a52sxq.git"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/Alone0316/device-santoni-twrp.git"
 export KERNEL_SOURCE="https://github.com/Alone0316/kernel_samsung_a52sxq.git"
 
-export DEVICE="a52sxq"
-export OEM="samsung"
+export DEVICE="santoni"
+export OEM="xiaomi"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
